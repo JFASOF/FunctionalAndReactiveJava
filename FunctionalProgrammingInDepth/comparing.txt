@@ -1,0 +1,11 @@
+OOP vs FunctionalProgramming
+
+OOP -> Object method(Object o)
+
+we can pass objects to function.
+we can return objects from function.
+
+FunctionalProgramming -> Supplier method (Function f)
+
+we can pass functions to function.
+we can create functions with in function.
